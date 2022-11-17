@@ -11,7 +11,7 @@
 
 Body{
    background: linear-gradient(purple,indigo,#6A5ACD,	#836FFF);
-   cursor: url(img/cursor.cur),default;
+   cursor: url(img/curso.cur),default;
 }
 
 header{
@@ -54,7 +54,7 @@ padding:2vw;
 width: 100%;
 height: 100%;
 object-fit:cover;
-cursor: url(img/cursor.cur),default;
+cursor: url(img/curso.cur),default;
 
 }
 .foto-album {
